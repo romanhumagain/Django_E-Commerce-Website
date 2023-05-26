@@ -1,0 +1,1 @@
+This is my static file in blog directory. I am learning django from code with harry . Thank You bye bye
